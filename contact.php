@@ -103,7 +103,7 @@
 								<div class="form__item">
 									<textarea rows="3" name="Собщение" placeholder="Сообщение"></textarea>
 								</div>
-								<div class="form__button"><a class="btn btn-primary btn-w180" href="#">отправить</a>
+								<div class="form__button"><a class="btn btn-primary btn-w180 contact_button" href="#">отправить</a>
 								</div>
 							</form>
 						</div><!-- End / form-01 -->
@@ -138,5 +138,6 @@
 		<script type="text/javascript" src="assets/vendors/smoothscroll/SmoothScroll.min.js"></script>
 		<!-- App-->
 		<script type="text/javascript" src="assets/js/main.js"></script>
+    <?php include_once('__scripts.php')?>
 	</body>
 </html>

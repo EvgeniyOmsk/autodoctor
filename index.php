@@ -259,5 +259,6 @@
 		<script type="text/javascript" src="assets/vendors/smoothscroll/SmoothScroll.min.js"></script>
 		<!-- App-->
 		<script type="text/javascript" src="assets/js/main.js"></script>
+    <?php include_once('__scripts.php')?>
 	</body>
 </html>
