@@ -13,7 +13,7 @@
                     <div class="widget-text__content">
                         <ul>
                             <li><a href="/">Главная</a></li>
-                            <li><a href="/about.php">О нас</a></li>
+                            <li><a href="/about">О нас</a></li>
                         </ul>
                     </div>
                 </section><!-- End / widget-text__widget -->
@@ -27,8 +27,8 @@
                 <section class="widget-text__widget widget">
                     <div class="widget-text__content">
                         <ul>
-                            <li><a href="/photo.php">Примеры работ</li>
-                            <li><a href="/contact.php">Контакты</a></li>
+                            <li><a href="/photo">Примеры работ</li>
+                            <li><a href="/contact">Контакты</a></li>
                         </ul>
                     </div>
                 </section><!-- End / widget-text__widget -->

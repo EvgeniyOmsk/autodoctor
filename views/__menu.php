@@ -1,5 +1,5 @@
 <!-- header -->
-<header class="header">
+<header class="header header__style-02">
   <div class="container">
     <div class="header__logo"><a href="index.html"><img src="assets/img/logo.png" alt=""/></a></div>
     <div class="header__toogleGroup">
@@ -20,10 +20,10 @@
     <nav class="consult-nav">
 
       <ul class="consult-menu">
-        <li><a href="/">Главная</a></li>
-        <li <?= $page == 'about'? 'class="current-menu-item"' : '' ?>><a href="/about.php">О нас</a></li>
-        <li <?= $page == 'photo'? 'class="current-menu-item"' : '' ?>><a href="/photo.php">Примеры работ</a></li>
-        <li <?= $page == 'contact'? 'class="current-menu-item"' : '' ?>><a href="/contact.php">Контакты</a>
+        <li class="current-menu-item"><a href="/">Главная</a></li>
+        <li <?= $page == 'about'? 'class="current-menu-item"' : '' ?>><a href="/about">О нас</a></li>
+        <li <?= $page == 'photo'? 'class="current-menu-item"' : '' ?>><a href="/photo">Примеры работ</a></li>
+        <li <?= $page == 'contact'? 'class="current-menu-item"' : '' ?>><a href="/contact">Контакты</a>
         </li>
       </ul><!-- consult-menu -->
 
