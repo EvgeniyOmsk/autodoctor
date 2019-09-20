@@ -8,17 +8,42 @@ require_once('vendor/AltoRouter.php');
 
 $router = new AltoRouter();
 
+require __DIR__ . '/views/__scriptsBack.php';
+
+function main($action) {
+    global $lang;
+    global $l;
+
+    require __DIR__ . '/views/'.$action.'.php';
+}
+
 $router->map( 'GET', '/', function() {
-    require __DIR__ . '/views/index.php';
+    main('index');
 });
 $router->map( 'GET', '/about', function() {
-    require __DIR__ . '/views/about.php';
+    main('about');
 });
 $router->map( 'GET', '/photo', function() {
-    require __DIR__ . '/views/photo.php';
+    main('photo');
 });
 $router->map( 'GET', '/contact', function() {
-    require __DIR__ . '/views/contact.php';
+    main('contact');
+});
+
+$router->map( 'GET', '/ru', function() {
+    main('index');
+});
+$router->map( 'GET', '/ru/', function() {
+    main('index');
+});
+$router->map( 'GET', '/ru/about', function() {
+    main('about');
+});
+$router->map( 'GET', '/ru/photo', function() {
+    main('photo');
+});
+$router->map( 'GET', '/ru/contact', function() {
+    main('contact');
 });
 
 // match current request url

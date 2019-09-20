@@ -7,15 +7,15 @@
 		<meta name="format-detection" content="telephone=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<!-- Fonts-->
-		<link rel="stylesheet" type="text/css" href="assets/fonts/fontawesome/font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/fonts/themify-icons/themify-icons.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/themify-icons/themify-icons.css">
 		<!-- Vendors-->
-		<link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap4/bootstrap-grid.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/magnific-popup/magnific-popup.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/owl.carousel/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/bootstrap4/bootstrap-grid.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/owl.carousel/owl.carousel.css">
 		<!-- App & fonts-->
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&amp;amp;subset=latin-ext">
-		<link rel="stylesheet" type="text/css" href="assets/css/main.css"><!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css"><!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<![endif]-->
 	</head>
@@ -49,7 +49,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/1.jpeg"><img src="assets/img/gallery/1.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/1.jpeg"><img src="/assets/img/gallery/1.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -58,7 +58,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/2.jpeg"><img src="assets/img/gallery/2.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/2.jpeg"><img src="/assets/img/gallery/2.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -67,7 +67,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/3.jpeg"><img src="assets/img/gallery/3.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/3.jpeg"><img src="/assets/img/gallery/3.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -76,7 +76,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/5.jpeg"><img src="assets/img/gallery/5.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/5.jpeg"><img src="/assets/img/gallery/5.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -85,7 +85,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/6.jpeg"><img src="assets/img/gallery/6.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/6.jpeg"><img src="/assets/img/gallery/6.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -94,7 +94,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/7.jpeg"><img src="assets/img/gallery/7.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/7.jpeg"><img src="/assets/img/gallery/7.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -103,7 +103,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/8.jpeg"><img src="assets/img/gallery/8.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/8.jpeg"><img src="/assets/img/gallery/8.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -112,7 +112,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/9.jpeg"><img src="assets/img/gallery/9.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/9.jpeg"><img src="/assets/img/gallery/9.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -121,7 +121,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/10.jpeg"><img src="assets/img/gallery/10.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/10.jpeg"><img src="/assets/img/gallery/10.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -130,7 +130,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/11.jpeg"><img src="assets/img/gallery/11.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/11.jpeg"><img src="/assets/img/gallery/11.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -139,7 +139,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/12.jpeg"><img src="assets/img/gallery/12.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/12.jpeg"><img src="/assets/img/gallery/12.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -148,7 +148,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/13.jpeg"><img src="assets/img/gallery/13.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/13.jpeg"><img src="/assets/img/gallery/13.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -157,7 +157,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/14.jpeg"><img src="assets/img/gallery/14.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/14.jpeg"><img src="/assets/img/gallery/14.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -166,7 +166,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/15.jpeg"><img src="assets/img/gallery/15.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/15.jpeg"><img src="/assets/img/gallery/15.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -175,7 +175,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/16.jpeg"><img src="assets/img/gallery/16.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/16.jpeg"><img src="/assets/img/gallery/16.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -184,7 +184,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/17.jpeg"><img src="assets/img/gallery/17.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/17.jpeg"><img src="/assets/img/gallery/17.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -193,7 +193,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/18.jpeg"><img src="assets/img/gallery/18.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/18.jpeg"><img src="/assets/img/gallery/18.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -202,7 +202,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/19.jpeg"><img src="assets/img/gallery/19.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/19.jpeg"><img src="/assets/img/gallery/19.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -211,7 +211,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/20.jpeg"><img src="assets/img/gallery/20.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/20.jpeg"><img src="/assets/img/gallery/20.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -220,7 +220,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/21.jpeg"><img src="assets/img/gallery/21.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/21.jpeg"><img src="/assets/img/gallery/21.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -229,7 +229,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/22.jpeg"><img src="assets/img/gallery/22.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/22.jpeg"><img src="/assets/img/gallery/22.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -238,7 +238,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/23.jpeg"><img src="assets/img/gallery/23.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/23.jpeg"><img src="/assets/img/gallery/23.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -247,7 +247,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/24.jpeg"><img src="assets/img/gallery/24.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/24.jpeg"><img src="/assets/img/gallery/24.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -256,7 +256,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/25.jpeg"><img src="assets/img/gallery/25.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/25.jpeg"><img src="/assets/img/gallery/25.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -265,7 +265,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/26.jpeg"><img src="assets/img/gallery/26.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/26.jpeg"><img src="/assets/img/gallery/26.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -274,7 +274,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/27.jpeg"><img src="assets/img/gallery/27.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/27.jpeg"><img src="/assets/img/gallery/27.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -283,7 +283,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/28.jpeg"><img src="assets/img/gallery/28.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/28.jpeg"><img src="/assets/img/gallery/28.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -292,7 +292,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/29.jpeg"><img src="assets/img/gallery/29.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/29.jpeg"><img src="/assets/img/gallery/29.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -301,7 +301,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/30.jpeg"><img src="assets/img/gallery/30.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/30.jpeg"><img src="/assets/img/gallery/30.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -310,7 +310,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/31.jpeg"><img src="assets/img/gallery/31.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/31.jpeg"><img src="/assets/img/gallery/31.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -319,7 +319,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/32.jpeg"><img src="assets/img/gallery/32.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/32.jpeg"><img src="/assets/img/gallery/32.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -328,7 +328,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/33.jpeg"><img src="assets/img/gallery/33.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/33.jpeg"><img src="/assets/img/gallery/33.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -337,7 +337,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/34.jpeg"><img src="assets/img/gallery/34.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/34.jpeg"><img src="/assets/img/gallery/34.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -346,7 +346,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/35.jpeg"><img src="assets/img/gallery/35.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/35.jpeg"><img src="/assets/img/gallery/35.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -355,7 +355,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/36.jpeg"><img src="assets/img/gallery/36.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/36.jpeg"><img src="/assets/img/gallery/36.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -364,7 +364,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/37.jpeg"><img src="assets/img/gallery/37.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/37.jpeg"><img src="/assets/img/gallery/37.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -373,7 +373,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/38.jpeg"><img src="assets/img/gallery/38.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/38.jpeg"><img src="/assets/img/gallery/38.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -382,7 +382,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/39.jpeg"><img src="assets/img/gallery/39.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/39.jpeg"><img src="/assets/img/gallery/39.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -391,7 +391,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/40.jpeg"><img src="assets/img/gallery/40.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/40.jpeg"><img src="/assets/img/gallery/40.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -400,7 +400,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/41.jpeg"><img src="assets/img/gallery/41.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/41.jpeg"><img src="/assets/img/gallery/41.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -409,7 +409,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/42.jpeg"><img src="assets/img/gallery/42.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/42.jpeg"><img src="/assets/img/gallery/42.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -418,7 +418,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/43.jpeg"><img src="assets/img/gallery/43.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/43.jpeg"><img src="/assets/img/gallery/43.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -427,7 +427,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/44.jpeg"><img src="assets/img/gallery/44.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/44.jpeg"><img src="/assets/img/gallery/44.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -436,7 +436,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/45.jpeg"><img src="assets/img/gallery/45.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/45.jpeg"><img src="/assets/img/gallery/45.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -445,7 +445,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/46.jpeg"><img src="assets/img/gallery/46.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/46.jpeg"><img src="/assets/img/gallery/46.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -454,7 +454,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/47.jpeg"><img src="assets/img/gallery/47.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/47.jpeg"><img src="/assets/img/gallery/47.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -463,7 +463,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/48.jpeg"><img src="assets/img/gallery/48.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/48.jpeg"><img src="/assets/img/gallery/48.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -472,7 +472,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/49.jpeg"><img src="assets/img/gallery/49.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/49.jpeg"><img src="/assets/img/gallery/49.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -481,7 +481,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/50.jpeg"><img src="assets/img/gallery/50.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/50.jpeg"><img src="/assets/img/gallery/50.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -490,7 +490,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/51.jpeg"><img src="assets/img/gallery/51.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/51.jpeg"><img src="/assets/img/gallery/51.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -499,7 +499,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/52.jpeg"><img src="assets/img/gallery/52.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/52.jpeg"><img src="/assets/img/gallery/52.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -508,7 +508,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/53.jpeg"><img src="assets/img/gallery/53.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/53.jpeg"><img src="/assets/img/gallery/53.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -517,7 +517,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/54.jpeg"><img src="assets/img/gallery/54.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/54.jpeg"><img src="/assets/img/gallery/54.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -526,7 +526,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/55.jpeg"><img src="assets/img/gallery/55.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/55.jpeg"><img src="/assets/img/gallery/55.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -535,7 +535,7 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="assets/img/gallery/56.jpeg"><img src="assets/img/gallery/56.jpeg" alt=""/></a></div>
+												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/56.jpeg"><img src="/assets/img/gallery/56.jpeg" alt=""/></a></div>
 											</div>
 										</div>
 									</div>
@@ -557,38 +557,30 @@
 			
 		</div>
 		<!-- Vendors-->
-		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/isotope-layout/isotope.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/masonry-layout/masonry.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/owl.carousel/owl.carousel.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/menu/menu.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/smoothscroll/SmoothScroll.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/isotope-layout/isotope.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/owl.carousel/owl.carousel.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/menu/menu.min.js"></script>
 		<!-- App-->
-		<script type="text/javascript" src="assets/js/main.js"></script>
+		<script type="text/javascript" src="/assets/js/main.js"></script>
 
 
 		<!-- Add mousewheel plugin (this is optional) -->
-		<script type="text/javascript" src="assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
+		<script type="text/javascript" src="/assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
 
 		<!-- Add fancyBox -->
-		<link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="screen" />
-		<script type="text/javascript" src="assets/js/jquery.fancybox.pack.js"></script>
+		<link rel="stylesheet" href="/assets/css/jquery.fancybox.css" type="text/css" media="screen" />
+		<script type="text/javascript" src="/assets/js/jquery.fancybox.pack.js"></script>
 
-		<!-- Optionally add helpers - button, thumbnail and/or media -->
-		<link rel="stylesheet" href="https://fancyapps.com/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
-		<script type="text/javascript" src="https://fancyapps.com/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-		<script type="text/javascript" src="https://fancyapps.com/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-
-		<link rel="stylesheet" href="https://fancyapps.com/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
-		<script type="text/javascript" src="https://fancyapps.com/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 		<script type="text/javascript">
             $(document).ready(function() {
                 $(".fancybox").fancybox();

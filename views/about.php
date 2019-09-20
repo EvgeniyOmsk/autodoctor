@@ -7,16 +7,16 @@
 		<meta name="format-detection" content="telephone=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<!-- Fonts-->
-		<link rel="stylesheet" type="text/css" href="assets/fonts/fontawesome/font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/fonts/themify-icons/themify-icons.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/themify-icons/themify-icons.css">
 		<!-- Vendors-->
-		<link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap4/bootstrap-grid.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/magnific-popup/magnific-popup.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/owl.carousel/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/bootstrap4/bootstrap-grid.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/owl.carousel/owl.carousel.css">
 		<!-- App & fonts-->
-		<link rel="stylesheet" type="text/css" href="assets/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/main.css"><!--[if lt IE 9]>
-		<script src="assets/js/html5shiv.js"></script>
+		<link rel="stylesheet" type="text/css" href="/assets/css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css"><!--[if lt IE 9]>
+		<script src="/assets/js/html5shiv.js"></script>
 		<![endif]-->
 	</head>
 	
@@ -91,7 +91,7 @@
 
                 <div class="owl-stage-outer"><div class="owl-stage">
                     <div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="textbox textbox__style-02">
-                        <div class="textbox__image"><a href="#"><img src="assets/img/avatars/2.jpg" alt=""></a></div>
+                        <div class="textbox__image"><a href="#"><img src="/assets/img/avatars/2.jpg" alt=""></a></div>
                         <div class="textbox__body">
                           <h2 class="textbox__title">Иван Иванов</h2>
                           <div class="textbox__description">Совладелец, идейный вдохновитель</div>
@@ -99,7 +99,7 @@
                       </div>
                     </div>
                     <div class="owl-item cloned active" style="width: 350px; margin-right: 30px;"><div class="textbox textbox__style-02">
-                        <div class="textbox__image"><a href="#"><img src="assets/img/avatars/1.jpg" alt=""></a></div>
+                        <div class="textbox__image"><a href="#"><img src="/assets/img/avatars/1.jpg" alt=""></a></div>
                         <div class="textbox__body">
                           <h2 class="textbox__title">Ванек Юрий</h2>
                           <div class="textbox__description">Совладелец, идейный вдохновитель.</div>
@@ -125,20 +125,20 @@
 			
 		</div>
 		<!-- Vendors-->
-		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/isotope-layout/isotope.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/masonry-layout/masonry.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/menu/menu.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/isotope-layout/isotope.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/menu/menu.min.js"></script>
 		<!-- App-->
-		<script type="text/javascript" src="assets/js/main.js"></script>
+		<script type="text/javascript" src="/assets/js/main.js"></script>
     <?php include_once('__scripts.php')?>
 	</body>
 </html>

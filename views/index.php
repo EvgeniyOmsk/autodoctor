@@ -7,25 +7,24 @@
 		<meta name="format-detection" content="telephone=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<!-- Fonts-->
-		<link rel="stylesheet" type="text/css" href="assets/fonts/fontawesome/font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/fonts/themify-icons/themify-icons.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/themify-icons/themify-icons.css">
 		<!-- Vendors-->
-		<link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap4/bootstrap-grid.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/magnific-popup/magnific-popup.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/owl.carousel/owl.carousel.css">
-		<link rel="stylesheet" type="text/css" href="assets/vendors/_jquery/jquery.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/bootstrap4/bootstrap-grid.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/owl.carousel/owl.carousel.css">
 		<!-- <link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap4/bootstrap-grid.min.css"> -->
 		<!-- <link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap4/bootstrap-grid.min.css"> -->
 		<!-- App & fonts-->
-		<link rel="stylesheet" type="text/css" href="assets/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/main.css"><!--[if lt IE 9]>
-		<script src="assets/js/html5shiv.js"></script>
+		<link rel="stylesheet" type="text/css" href="/assets/css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css"><!--[if lt IE 9]>
+		<script src="/assets/js/html5shiv.js"></script>
 		<![endif]-->
 	</head>
 	
 	<body>
 		<div class="page-wrap">
-			<?php include_once('__menu.php')?>
+			<?php require('__menu.php')?>
 			
 			<!-- Content-->
 			<div class="md-content">
@@ -77,7 +76,7 @@
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="assets/img/services/4.jpg" alt=""/></a></div>
+										<div class="textbox__image"><a href="#"><img src="/assets/img/services/4.jpg" alt=""/></a></div>
 										<div class="textbox__body">
 											<h2 class="textbox__title"><a href="#">Авто покраска</a></h2>
 											<div class="textbox__description">Если ваш автомобиль нуждается в новом слое краски, рассчитывайте на нас для профессиональной покраски и точечного ремонта.</div>
@@ -88,7 +87,7 @@
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="assets/img/services/5.jpg" alt=""/></a></div>
+										<div class="textbox__image"><a href="#"><img src="/assets/img/services/5.jpg" alt=""/></a></div>
 										<div class="textbox__body">
 											<h2 class="textbox__title"><a href="#">Ремонт кузова</a></h2>
 											<div class="textbox__description">Наши квалифицированные специалисты в кратчайшие сроки полностью отремонтируют ваш автомобиль и подготовят его к работе!</div>
@@ -99,7 +98,7 @@
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="assets/img/services/6.jpg" alt=""/></a></div>
+										<div class="textbox__image"><a href="#"><img src="/assets/img/services/6.jpg" alt=""/></a></div>
 										<div class="textbox__body">
 											<h2 class="textbox__title"><a href="#">Услуги Выправления </a></h2>
 											<div class="textbox__description">От выравнивания рамы и оси до полной перестройки вы можете рассчитывать на экспертов в Chester Collision для непревзойденных услуг.</div>
@@ -176,9 +175,9 @@
 									
 									<!-- carousel__element owl-carousel -->
 									<div class="carousel__element owl-carousel" data-options='{"items":1,"loop":true,"dots":false,"nav":false,"margin":30,"responsive":{"0":{"items":2},"576":{"items":3},"992":{"items":1}}}'>
-										<div class="image-full"><img src="assets/img/image-01.jpg" alt=""></div>
-										<div class="image-full"><img src="assets/img/image-02.jpg" alt=""></div>
-										<div class="image-full"><img src="assets/img/image-03.jpg" alt=""></div>
+										<div class="image-full"><img src="/assets/img/image-01.jpg" alt=""></div>
+										<div class="image-full"><img src="/assets/img/image-02.jpg" alt=""></div>
+										<div class="image-full"><img src="/assets/img/image-03.jpg" alt=""></div>
 									</div><!-- End / carousel__element owl-carousel -->
 									
 								</div>
@@ -243,22 +242,21 @@
 			
 		</div>
 		<!-- Vendors-->
-		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/isotope-layout/isotope.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/masonry-layout/masonry.pkgd.js"></script>
-		<script type="text/javascript" src="assets/vendors/owl.carousel/owl.carousel.js"></script>
-		<script type="text/javascript" src="assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/menu/menu.min.js"></script>
-		<script type="text/javascript" src="assets/vendors/smoothscroll/SmoothScroll.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/isotope-layout/isotope.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="/assets/vendors/owl.carousel/owl.carousel.js"></script>
+		<script type="text/javascript" src="/assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
+		<script type="text/javascript" src="/assets/vendors/menu/menu.min.js"></script>
 		<!-- App-->
-		<script type="text/javascript" src="assets/js/main.js"></script>
+		<script type="text/javascript" src="/assets/js/main.js"></script>
     <?php include_once('__scripts.php')?>
 	</body>
 </html>

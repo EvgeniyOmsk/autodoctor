@@ -1,7 +1,7 @@
 <div class="footer__main">
     <div class="row row-eq-height">
         <div class="col-8 col-sm-7 col-md-9 col-lg-3 ">
-            <div class="footer__item"><a class="consult_logo" href="/"><img src="assets/img/logo1.png" alt=""/></a>
+            <div class="footer__item"><a class="consult_logo" href="/"><img src="/assets/img/logo1.png" alt=""/></a>
                 <p class="text-center">Автопокраска и кузовные работы</p>
             </div>
         </div>
