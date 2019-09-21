@@ -20,6 +20,10 @@ class Url
             $resultUrl = '/ru' . $resultUrl;
         }
 
+        if (empty($resultUrl)) {
+            $resultUrl = '/';
+        }
+
         return $resultUrl;
     }
 
