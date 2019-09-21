@@ -40,7 +40,7 @@
 									<div class="slider__content">
 										<div class="container">
 											<h2>Покраска автомобиля в Карловых Варах</h2>
-											<p>Наши специалисты проведут профессиональную покраску любого автомобиля на высшем уровне.
+											<p>Специалисты компании Автодоктор проведут профессиональную покраску любого автомобиля на высшем уровне.
 												<br>Подарите вашему автомобилю новую жизнь!</p>
 										</div>
 									</div>
@@ -53,7 +53,7 @@
 									<div class="slider__content">
 										<div class="container">
 											<h2>Кузовной ремонт В Карловых Варах</h2>
-											<p>Профессионалы нашей компании ответят на Ваши вопросы и выполнят кузовной
+											<p>Наши Автодоктора ответят на Ваши вопросы и выполнят кузовной
 												ремонт качественно и с гарантией.<br>
 												Наша цель - довольный клиент.
 											</p>
@@ -76,9 +76,9 @@
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="/assets/img/services/4.jpg" alt=""/></a></div>
+										<div class="textbox__image"><img src="/assets/img/services/4.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><a href="#">Авто покраска</a></h2>
+											<h2 class="textbox__title"><span>Авто покраска</span></h2>
 											<div class="textbox__description">Если ваш автомобиль нуждается в новом слое краски, рассчитывайте на нас для профессиональной покраски и точечного ремонта.</div>
 										</div>
 									</div>
@@ -87,10 +87,10 @@
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="/assets/img/services/5.jpg" alt=""/></a></div>
+										<div class="textbox__image"><img src="/assets/img/services/5.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><a href="#">Ремонт кузова</a></h2>
-											<div class="textbox__description">Наши квалифицированные специалисты в кратчайшие сроки полностью отремонтируют ваш автомобиль и подготовят его к работе!</div>
+											<h2 class="textbox__title"><span>Ремонт кузова</span></h2>
+											<div class="textbox__description">Квалифицированные специалисты в кратчайшие сроки полностью отремонтируют ваш автомобиль и подготовят его к работе!</div>
 										</div>
 									</div>
 									
@@ -98,10 +98,10 @@
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="/assets/img/services/6.jpg" alt=""/></a></div>
+										<div class="textbox__image"><img src="/assets/img/services/6.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><a href="#">Услуги Выправления </a></h2>
-											<div class="textbox__description">От выравнивания рамы и оси до полной перестройки вы можете рассчитывать на экспертов в Chester Collision для непревзойденных услуг.</div>
+											<h2 class="textbox__title"><span>Полировка кузова</span></h2>
+											<div class="textbox__description">Профессиональное устрание царапин и нанесение защитных покрытий вернет сочность цвета и блеск вашего автомобиля</div>
 										</div>
 									</div>
 									
@@ -164,7 +164,7 @@
 											<div class="box-number__number">
 												<h2 class="js-counter" data-counter-time="2000" data-counter-delay="10">123</h2>
 											</div>
-											<div class="box-number__description">Выпито бесплатного кофе</div>
+											<div class="box-number__description">Выпито чашек кофе</div>
 										</div><!-- End / box-number -->
 										
 									</div>

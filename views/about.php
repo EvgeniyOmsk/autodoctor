@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>О Нас Автодоктор Карловы вары покраска и ремонт</title>
+		<title>О Нас Автодоктор Карловы вары покраска, полировка и ремонт авто</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="format-detection" content="telephone=no">
@@ -46,9 +46,7 @@
 												<br>Локальный кузовной ремонт
 												<br>Локальный ремонт и восстановление бамперов
 												<br>Удаление вмятин без покраски
-												<br>Ремонт легкосплавных дисков
 												<br>Предпродажная подготовка и полировка автомобиля
-												<br>Керамические защитные покрытия для автомобиля
 											</b>
 
 										</p>
