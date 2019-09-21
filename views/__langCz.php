@@ -1,5 +1,8 @@
 <?php
 $lang = 'cz';
 $l = [
-    'home' => 'Domů'
+    'home' => 'služby',
+    'about' => 'o nás',
+    'example_works' => 'Příklady práce',
+    'contacts' => 'Kontaktní údaje'
 ];

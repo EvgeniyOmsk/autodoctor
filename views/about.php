@@ -61,58 +61,6 @@
 				<!-- End / Section -->
 				
 				<!-- Our Advisors-->
-				
-				<!-- Section -->
-				<section class="md-section" style="padding-bottom:0;">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-8 col-lg-8 offset-0 offset-sm-0 offset-md-2 offset-lg-2 ">
-								
-								<!-- title-01 -->
-								<div class="title-01">
-									<h2 class="title-01__title">Лицо компании</h2>
-								</div><!-- End / title-01 -->
-								
-							</div>
-						</div>
-            <div class="consult-slide">
-
-              <!-- carousel__element owl-carousel -->
-              <div class="owl-carousel owl-loaded owl-drag">
-
-                <!-- textbox -->
-                <!-- End / textbox -->
-
-
-                <!-- textbox -->
-                <!-- End / textbox -->
-
-                <div class="owl-stage-outer"><div class="owl-stage">
-                    <div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="textbox textbox__style-02">
-                        <div class="textbox__image"><a href="#"><img src="/assets/img/avatars/2.jpg" alt=""></a></div>
-                        <div class="textbox__body">
-                          <h2 class="textbox__title">Иван Иванов</h2>
-                          <div class="textbox__description">Совладелец, идейный вдохновитель</div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="owl-item cloned active" style="width: 350px; margin-right: 30px;"><div class="textbox textbox__style-02">
-                        <div class="textbox__image"><a href="#"><img src="/assets/img/avatars/1.jpg" alt=""></a></div>
-                        <div class="textbox__body">
-                          <h2 class="textbox__title">Ванек Юрий</h2>
-                          <div class="textbox__description">Совладелец, идейный вдохновитель.</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div><!-- End / carousel__element owl-carousel -->
-
-            </div>
-					</div>
-				</section>
-				<!-- End / Section -->
-				
 			</div>
 			<!-- End / Content-->
 			

@@ -11,8 +11,10 @@ class Url
     const LANG_RU = 'ru';
     const LANG_CZ = 'cz';
 
-    static function to($url){
-        global $lang;
+    static function to($url, $lang = null){
+        if (!$lang) {
+            global $lang;
+        }
 
         $resultUrl = $url;
 
@@ -22,6 +24,8 @@ class Url
 
         if (empty($resultUrl)) {
             $resultUrl = '/';
+        } elseif($resultUrl == '/ru/') {
+            $resultUrl = '/ru';
         }
 
         return $resultUrl;
@@ -37,5 +41,24 @@ class Url
         }
 
         return $res;
+    }
+
+    static function getUrl()
+    {
+        $uri = $_SERVER['REQUEST_URI'];
+
+        $action = '';
+
+        if (strpos($uri, 'about')) {
+            $action = 'about';
+        } elseif (strpos($uri, 'photo')) {
+
+            $action = 'photo';
+        } elseif (strpos($uri, 'contact')) {
+
+            $action = 'contact';
+        }
+
+        return $action;
     }
 }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Главная Автодоктор Покраска и кузовной ремонт авто Карловы Вары</title>
+		<title>Автодоктор Покраска и кузовной ремонт авто Карловы Вары</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="format-detection" content="telephone=no">
@@ -34,7 +34,7 @@
 					
 					<!-- carousel__element owl-carousel -->
 					<div class="carousel__element owl-carousel" data-options='{"items":1,"loop":true,"dots":false,"nav":false,"margin":0, "autoplay": true, "autoplayTimeout": 5000}'>
-						<div class="slider__item" style="background-image: url('assets/img/slider2.jpg');">
+						<div class="slider__item" style="background-image: url('/assets/img/slider2.jpg');">
 							<div class="md-tb">
 								<div class="md-tb__cell">
 									<div class="slider__content">
@@ -47,7 +47,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="slider__item" style="background-image: url('assets/img/slider1.jpg');">
+						<div class="slider__item" style="background-image: url('/assets/img/slider1.jpg');">
 							<div class="md-tb">
 								<div class="md-tb__cell">
 									<div class="slider__content">
@@ -79,7 +79,7 @@
 										<div class="textbox__image"><img src="/assets/img/services/4.jpg" alt=""/></div>
 										<div class="textbox__body">
 											<h2 class="textbox__title"><span>Авто покраска</span></h2>
-											<div class="textbox__description">Если ваш автомобиль нуждается в новом слое краски, рассчитывайте на нас для профессиональной покраски и точечного ремонта.</div>
+											<div class="textbox__description">Услуги подбора и профессиональная покраска вашего автомобиля</div>
 										</div>
 									</div>
 									
@@ -90,7 +90,8 @@
 										<div class="textbox__image"><img src="/assets/img/services/5.jpg" alt=""/></div>
 										<div class="textbox__body">
 											<h2 class="textbox__title"><span>Ремонт кузова</span></h2>
-											<div class="textbox__description">Квалифицированные специалисты в кратчайшие сроки полностью отремонтируют ваш автомобиль и подготовят его к работе!</div>
+											<div class="textbox__description">Квалифицированные специалисты в кратчайшие сроки полностью отремонтируют ваш автомобиль и
+                        подготовят его к покраске!</div>
 										</div>
 									</div>
 									
@@ -101,7 +102,7 @@
 										<div class="textbox__image"><img src="/assets/img/services/6.jpg" alt=""/></div>
 										<div class="textbox__body">
 											<h2 class="textbox__title"><span>Полировка кузова</span></h2>
-											<div class="textbox__description">Профессиональное устрание царапин и нанесение защитных покрытий вернет сочность цвета и блеск вашего автомобиля</div>
+											<div class="textbox__description">Профессиональное устрание царапин и нанесение защитных покрытий вернет автомобиль в персоначальный вид</div>
 										</div>
 									</div>
 									
@@ -124,51 +125,10 @@
 								
 								<!-- title-01 -->
 								<div class="title-01 title-01__style-03 md-text-left">
-									<h6 class="title-01__subTitle">О Нас</h6>
-									<h2 class="title-01__title">Мы стремимся стать лидерами в индустрии</h2>
-									<div>Автодоктор - это новый автосервис в Карловых Варах, которым управляет команда
-										профессионалов с более чем 20-летним опытом работы на рынке автопокраски.
-										Просторное помещение позволяет нам одновременно работать с 5ю машинами.
-										<br><br>
-										В Автодоктор мы стремимся стать одним из лучших сервисов автопокраски и кузовному ремонту в Карловых Варах,
-										привлекая и удерживая лучших сотрудников и удовлетворяя желаниям клиентов на 100%.</div>
+                  <br><br><br>
+									<h2 class="title-01__title">Наш приоритет - быстрота, качество и спокойствие клиента</h2>
 								</div><!-- End / title-01 -->
-								
-								<div class="row">
-									<div class="col-sm-4 ">
-										
-										<!-- box-number -->
-										<div class="box-number">
-											<div class="box-number__number">
-												<h2 class="js-counter" data-counter-time="2000" data-counter-delay="10">43</h2>
-											</div>
-											<div class="box-number__description">Счастливых клиентов</div>
-										</div><!-- End / box-number -->
-										
-									</div>
-									<div class="col-sm-4 ">
-										
-										<!-- box-number -->
-										<div class="box-number">
-											<div class="box-number__number">
-												<h2 class="js-counter" data-counter-time="2000" data-counter-delay="10">46</h2>
-											</div>
-											<div class="box-number__description">Починенных машин</div>
-										</div><!-- End / box-number -->
-										
-									</div>
-									<div class="col-sm-4 ">
-										
-										<!-- box-number -->
-										<div class="box-number">
-											<div class="box-number__number">
-												<h2 class="js-counter" data-counter-time="2000" data-counter-delay="10">123</h2>
-											</div>
-											<div class="box-number__description">Выпито чашек кофе</div>
-										</div><!-- End / box-number -->
-										
-									</div>
-								</div>
+
 							</div>
 							<div class="col-lg-6 ">
 								<div class="js-consult-slider">
@@ -190,7 +150,7 @@
 				<!-- Contact us-->
 				
 				<!-- Section -->
-				<section class="md-section md-skin-dark js-consult-form" style="background-image:url(&quot;assets/img/backgrounds/1.jpg&quot;);">
+				<section class="md-section md-skin-dark js-consult-form" style="background-image:url(&quot;/assets/img/backgrounds/1.jpg&quot;);">
 					<div class="md-overlay"></div>
 					<div class="container">
 						<div class="row">
@@ -253,7 +213,6 @@
 		<script type="text/javascript" src="/assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/masonry-layout/masonry.pkgd.js"></script>
 		<script type="text/javascript" src="/assets/vendors/owl.carousel/owl.carousel.js"></script>
-		<script type="text/javascript" src="/assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/menu/menu.min.js"></script>
 		<!-- App-->
 		<script type="text/javascript" src="/assets/js/main.js"></script>

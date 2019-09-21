@@ -50,7 +50,7 @@
 									<div class="iconbox__icon"><i class="ti-email"></i></div>
 									<div>
 										<h2 class="iconbox__title"><a href="#">Email</a></h2>
-										<div class="iconbox__description"><a href="mailto:jane-doe@xyz.edu">auto-doktor@seznam.cz</a></div>
+										<div class="iconbox__description"><a href="mailto:jane-doe@xyz.edu">autodoktor.kv@gmail.com</a></div>
 									</div>
 								</div><!-- End / iconbox -->
 								
