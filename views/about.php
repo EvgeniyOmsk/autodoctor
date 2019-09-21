@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>О Нас Автодоктор Карловы вары покраска, полировка и ремонт авто</title>
+		<title><?= $l['About_Us_Auto_Doctor_Karlovy'] ?></title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="format-detection" content="telephone=no">
@@ -36,17 +36,16 @@
 								
 								<!-- title-01 -->
 								<div class="title-01 title-01__style-04" style="margin-bottom: 0">
-									<h6 class="title-01__subTitle">О Нас</h6>
-									<h2 class="title-01__title">Специалисты кузовного ремонта</h2>
+									<h6 class="title-01__subTitle"><?= $l['about'] ?></h6>
+									<h2 class="title-01__title"><?= $l['Body_Repair_Specialists'] ?></h2>
 									<div>
-										<p>Наша команда Автодоктор благодаря хорошо подобранным сотрудникам и профессиональному оборудованию
-											зарекомендовала себя как мастера своего дела. Использование специального технического оборудования позволяет производить такие услуги как:
+										<p><?= $l['Our_team_is_Autodoc_thanks_to_well_selected'] ?>
 											<br>
 											<b>
-												<br>Локальный кузовной ремонт
-												<br>Локальный ремонт и восстановление бамперов
-												<br>Удаление вмятин без покраски
-												<br>Предпродажная подготовка и полировка автомобиля
+												<br><?= $l['Local_body_repair'] ?>
+												<br><?= $l['Local_repair_and_restoration'] ?>
+												<br><?= $l['Removing_dents_without_painting'] ?>
+												<br><?= $l['Pre_sale_preparation_and_polishing'] ?>
 											</b>
 
 										</p>

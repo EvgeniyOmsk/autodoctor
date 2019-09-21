@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Как с нами связаться Автодоктор</title>
+		<title><?= $l['How_to_contact_us'] ?></title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="format-detection" content="telephone=no">
@@ -36,8 +36,8 @@
 								
 								<!-- title-01 -->
 								<div class="title-01">
-									<h2 class="title-01__title">Как с нами связаться?</h2>
-									<div>Качественная покраска и ремонт автомобиля в Карловых Варах</div>
+									<h2 class="title-01__title"><?= $l['How_to_contact'] ?></h2>
+									<div><?= $l['High_quality_painting_and_car'] ?></div>
 								</div><!-- End / title-01 -->
 								
 							</div>
@@ -61,13 +61,13 @@
 								<div class="iconbox iconbox__style-04">
 									<div class="iconbox__icon"><i class="ti-location-pin"></i></div>
 									<div>
-										<h2 class="iconbox__title"><a href="#">Адрес</a></h2>
-										<div class="iconbox__description">
-											<span itemprop="addressLocality">Чехия</span>,
-											<span itemprop="streetAddress">Карловы Вары, <br>ул. К Панеларне 172</span>
+										<h2 class="iconbox__title"><a href="#"><?= $l['Address'] ?></a></h2>
+										<div class="iconbox__description">Karlovy_Vary
+											<span itemprop="addressLocality"><?= $l['Czech'] ?></span>,
+											<span itemprop="streetAddress"><?= $l['Karlovy_Vary'] ?>, <br>ул. К Панеларне 172</span>
 											<br>пн-пт с 8:00 до 18:00
                       <br>сб-вс по договоренности
-                      <br>Идентификационный номер компании: 26375087
+                      <br><?= $l['Company_identification_number'] ?>: 26375087
                     </div>
 									</div>
 								</div><!-- End / iconbox -->
@@ -79,8 +79,12 @@
 								<div class="iconbox iconbox__style-04">
 									<div class="iconbox__icon"><i class="ti-mobile"></i></div>
 									<div>
-										<h2 class="iconbox__title"><a href="#">Телефон</a></h2>
-										<div class="iconbox__description"><span itemprop="telephone">+420-774-864-202</span></div>
+										<h2 class="iconbox__title"><a href="#"><?= $l['Phone'] ?></a></h2>
+										<div class="iconbox__description">
+                      <span itemprop="telephone">+420774864202</span>
+                      <br>WhatsApp
+                      <br>Viber
+                    </div>
 									</div>
 								</div><!-- End / iconbox -->
 								
@@ -89,21 +93,21 @@
 						
 						<!-- form-01 -->
 						<div class="form-01 consult-form js-consult-form__content" id="form01">
-							<h2 class="form-01__title">Напишите нам</h2>
+							<h2 class="form-01__title"><?= $l['Your_contact_details'] ?></h2>
 							<form class="form-01__form">
 								<div class="form__item form__item--03">
-									<input type="text" name="name" placeholder="Ваше имя"/>
+									<input type="text" name="name" placeholder="<?= $l['Your_name'] ?>"/>
 								</div>
 								<div class="form__item form__item--03">
-									<input type="text" name="phone" placeholder="Телефон"/>
+									<input type="text" name="phone" placeholder="<?= $l['Phone'] ?>"/>
 								</div>
 								<div class="form__item form__item--03">
 									<input type="email" name="email" placeholder="Email"/>
 								</div>
 								<div class="form__item">
-									<textarea rows="3" name="Собщение" placeholder="Сообщение"></textarea>
+									<textarea rows="3" name="Собщение" placeholder="<?= $l['Description_of_the_problem'] ?>"></textarea>
 								</div>
-								<div class="form__button"><a class="btn btn-primary btn-w180 contact_button" href="#">отправить</a>
+								<div class="form__button"><a class="btn btn-primary btn-w180 contact_button" href="#"><?= $l['Send_data'] ?></a>
 								</div>
 							</form>
 						</div><!-- End / form-01 -->

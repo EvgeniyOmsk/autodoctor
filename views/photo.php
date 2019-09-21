@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-    <title>Примеры работ Автодоктор по восстановлению кузова автомобиля</title>
+    <title><?= $l['Examples_of_work_Auto_doc_for_car_body_restoration'] ?></title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="format-detection" content="telephone=no">
@@ -35,8 +35,8 @@
 
 								<!-- title-01 -->
 								<div class="title-01 title-01__style-04">
-									<h6 class="title-01__subTitle">Примеры работ</h6>
-									<h2 class="title-01__title">Наши мастера в деле</h2>
+									<h6 class="title-01__subTitle"><?= $l['example_works'] ?></h6>
+									<h2 class="title-01__title"><?= $l['Our_masters_in_business'] ?></h2>
 								</div><!-- End / title-01 -->
 
 							</div>
