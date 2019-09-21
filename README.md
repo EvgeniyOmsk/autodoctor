@@ -1,3 +1,3 @@
 Order: site auto-doctor.
 
-link http://poisk.cv89914.tmweb.ru/
+link http://auto-doktor.cz

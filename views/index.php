@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Автодоктор Покраска и кузовной ремонт авто Карловы Вары</title>
+		<title><?= $l['auto_paint_and_body_repair'] ?></title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="format-detection" content="telephone=no">
@@ -39,9 +39,8 @@
 								<div class="md-tb__cell">
 									<div class="slider__content">
 										<div class="container">
-											<h2>Покраска автомобиля в Карловых Варах</h2>
-											<p>Специалисты компании Автодоктор проведут профессиональную покраску любого автомобиля на высшем уровне.
-												<br>Подарите вашему автомобилю новую жизнь!</p>
+											<h2><?= $l['car_painting_in_Karlovy_Vary'] ?></h2>
+											<p><?= $l['the_specialists_of_the_Avtodoktor_company_will_professionally'] ?></p>
 										</div>
 									</div>
 								</div>
@@ -52,11 +51,8 @@
 								<div class="md-tb__cell">
 									<div class="slider__content">
 										<div class="container">
-											<h2>Кузовной ремонт В Карловых Варах</h2>
-											<p>Наши Автодоктора ответят на Ваши вопросы и выполнят кузовной
-												ремонт качественно и с гарантией.<br>
-												Наша цель - довольный клиент.
-											</p>
+											<h2><?= $l['body_repair_in_Karlovy_Vary'] ?></h2>
+											<p><?= $l['Our_Autodocs_will_answer_your_questions_and_carry'] ?></p>
 										</div>
 									</div>
 								</div>
@@ -78,8 +74,8 @@
 									<div class="textbox">
 										<div class="textbox__image"><img src="/assets/img/services/4.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><span>Авто покраска</span></h2>
-											<div class="textbox__description">Услуги подбора и профессиональная покраска вашего автомобиля</div>
+											<h2 class="textbox__title"><span><?= $l['Auto_painting'] ?></span></h2>
+											<div class="textbox__description"><?= $l['Selection_services_and_professional_painting'] ?></div>
 										</div>
 									</div>
 									
@@ -89,9 +85,8 @@
 									<div class="textbox">
 										<div class="textbox__image"><img src="/assets/img/services/5.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><span>Ремонт кузова</span></h2>
-											<div class="textbox__description">Квалифицированные специалисты в кратчайшие сроки полностью отремонтируют ваш автомобиль и
-                        подготовят его к покраске!</div>
+											<h2 class="textbox__title"><span><?= $l['Body_repair'] ?></span></h2>
+											<div class="textbox__description"><?= $l['Qualified_specialists_as_soon_as_possible_will_completely'] ?></div>
 										</div>
 									</div>
 									
@@ -101,8 +96,8 @@
 									<div class="textbox">
 										<div class="textbox__image"><img src="/assets/img/services/6.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><span>Полировка кузова</span></h2>
-											<div class="textbox__description">Профессиональное устрание царапин и нанесение защитных покрытий вернет автомобиль в персоначальный вид</div>
+											<h2 class="textbox__title"><span><?= $l['Body_polishing'] ?></span></h2>
+											<div class="textbox__description"><?= $l['Professional_scratching_and_protective_coating'] ?></div>
 										</div>
 									</div>
 									
@@ -126,7 +121,7 @@
 								<!-- title-01 -->
 								<div class="title-01 title-01__style-03 md-text-left">
                   <br><br><br>
-									<h2 class="title-01__title">Наш приоритет - быстрота, качество и спокойствие клиента</h2>
+									<h2 class="title-01__title"><?= $l['Our_priority_is_speed_quality_and_customer'] ?></h2>
 								</div><!-- End / title-01 -->
 
 							</div>
@@ -158,8 +153,8 @@
 								
 								<!-- title-01 -->
 								<div class="title-01 title-01__style-02">
-									<h2 class="title-01__title">Свяжитесь с нами</h2>
-									<div>По телефону, либо отправьте нам свои контактные данные</div>
+									<h2 class="title-01__title"><?= $l['Contact_us'] ?></h2>
+									<div><?= $l['By_phone_whatsapp_viber_or_send'] ?></div>
 								</div><!-- End / title-01 -->
 								
 								<div class="consult-phone"><span itemprop="telephone">(+420) 774 864 202</span></div>
@@ -168,21 +163,21 @@
 						
 						<!-- form-01 -->
 						<div class="form-01 consult-form js-consult-form__content">
-							<h2 class="form-01__title">Ваши контактные данные</h2>
+							<h2 class="form-01__title"><?= $l['Your_contact_details'] ?></h2>
 							<form class="form-01__form">
 								<div class="form__item form__item--03">
-									<input type="text" name="name" placeholder="Ваше Имя"/>
+									<input type="text" name="name" placeholder="<?= $l['Your_name'] ?>"/>
 								</div>
 								<div class="form__item form__item--03">
-									<input type="text" name="phone" placeholder="Телефон"/>
+									<input type="text" name="phone" placeholder="<?= $l['Phone'] ?>"/>
 								</div>
 								<div class="form__item form__item--03">
 									<input type="email" name="email" placeholder="Email"/>
 								</div>
 								<div class="form__item">
-									<textarea rows="3" name="Your message" placeholder="Сообщение"></textarea>
+									<textarea rows="3" name="Your message" placeholder="<?= $l['Description_of_the_problem'] ?>"></textarea>
 								</div>
-								<div class="form__button"><a class="btn btn-primary btn-w180" href="#">Отправить данные</a>
+								<div class="form__button"><a class="btn btn-primary btn-w180" href="#"><?= $l['Send_data'] ?></a>
 								</div>
 							</form>
 						</div><!-- End / form-01 -->
