@@ -2,9 +2,9 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-//ini_set('error_reporting', E_ALL);
-//ini_set('display_errors', 1);
-//ini_set('display_startup_errors', 1);
+ini_set('error_reporting', E_ALL);
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
 
 require '../vendor/PHPMailer/src/Exception.php';
 require '../vendor/PHPMailer/src/PHPMailer.php';
@@ -50,15 +50,18 @@ try {
 
 //    $mail->SMTPDebug = 2; // режим отладки, уберите эту сточку после отладки
     $mail->isSMTP();
-    $mail->Host = 'smtp.yandex.ru';
+    $mail->Host = 'smtp.timeweb.ru';// 'smtp.yandex.ru';
     $mail->SMTPAuth = true;
-    $mail->Username = $config['mail']['yandex']['login']; // имя пользователя yandex
-    $mail->Password = $config['mail']['yandex']['password']; // пароль на yandex
-    $mail->SMTPSecure = 'tls';
-    $mail->Port = 587;
+//    $mail->Username = $config['mail']['yandex']['login']; // имя пользователя yandex
+//    $mail->Password = $config['mail']['yandex']['password']; // пароль на yandex
+    $mail->Username = $config['mail']['bot']['login']; // имя пользователя yandex
+    $mail->Password = $config['mail']['bot']['password']; // пароль на yandex
+    $mail->SMTPSecure = 'ssl';
+    $mail->Port = 465;
     $mail->CharSet = 'UTF-8';
 
-    $mail->setFrom($config['mail']['yandex']['login'] . '@yandex.ru', 'Автодоктор');
+//    $mail->setFrom($config['mail']['yandex']['login'] . '@yandex.ru', 'Автодоктор');
+    $mail->setFrom($config['mail']['bot']['login'], 'Автодоктор');
 
     $mail->addAddress($config['mail']['recipient'], 'Автодоктор');
 

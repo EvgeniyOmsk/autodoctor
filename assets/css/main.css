@@ -214,6 +214,12 @@ a:focus {
     padding-bottom: 50px;
 }
 
+.icon-flag {
+    width: 28px;
+    height: 17px;
+    border: 1px solid black;
+}
+
 @media (min-width: 320px) {
     .md-section {
         padding-top: calc(14.88095vw + 2.38095px);
