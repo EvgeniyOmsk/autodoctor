@@ -62,7 +62,7 @@
 									<div class="iconbox__icon"><i class="ti-location-pin"></i></div>
 									<div>
 										<h2 class="iconbox__title"><a href="#"><?= $l['Address'] ?></a></h2>
-										<div class="iconbox__description">Karlovy_Vary
+										<div class="iconbox__description">
 											<span itemprop="addressLocality"><?= $l['Czech'] ?></span>,
 											<span itemprop="streetAddress"><?= $l['Karlovy_Vary'] ?>, <br>ул. К Панеларне 172</span>
 											<br>пн-пт с 8:00 до 18:00
@@ -90,27 +90,8 @@
 								
 							</div>
 						</div>
-						
-						<!-- form-01 -->
-						<div class="form-01 consult-form js-consult-form__content" id="form01">
-							<h2 class="form-01__title"><?= $l['Your_contact_details'] ?></h2>
-							<form class="form-01__form">
-								<div class="form__item form__item--03">
-									<input type="text" name="name" placeholder="<?= $l['Your_name'] ?>"/>
-								</div>
-								<div class="form__item form__item--03">
-									<input type="text" name="phone" placeholder="<?= $l['Phone'] ?>"/>
-								</div>
-								<div class="form__item form__item--03">
-									<input type="email" name="email" placeholder="Email"/>
-								</div>
-								<div class="form__item">
-									<textarea rows="3" name="Собщение" placeholder="<?= $l['Description_of_the_problem'] ?>"></textarea>
-								</div>
-								<div class="form__button"><a class="btn btn-primary btn-w180 contact_button" href="#"><?= $l['Send_data'] ?></a>
-								</div>
-							</form>
-						</div><!-- End / form-01 -->
+
+              <?php include_once('__form_question.php')?>
 						
 					</div>
 				</section>
