@@ -64,10 +64,11 @@
 										<h2 class="iconbox__title"><a href="#"><?= $l['Address'] ?></a></h2>
 										<div class="iconbox__description">
 											<span itemprop="addressLocality"><?= $l['Czech'] ?></span>,
-											<span itemprop="streetAddress"><?= $l['Karlovy_Vary'] ?>, <br>ул. К Панеларне 172</span>
-											<br>пн-пт с 8:00 до 18:00
-                      <br>сб-вс по договоренности
-                      <br><?= $l['Company_identification_number'] ?>: 26375087
+											<span itemprop="streetAddress"><?= $l['Palenarne'] ?></span>
+                      <br><?= $l['Karlovy_Vary'] ?>
+											<br><?= $l['pn-pt'] ?>
+                      <br><?= $l['sb-vs'] ?>
+                      <br><?= $l['IC26375087'] ?>
                     </div>
 									</div>
 								</div><!-- End / iconbox -->
