@@ -247,24 +247,6 @@
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/24.jpeg"><img src="/assets/img/gallery/24.jpeg" alt=""/></a></div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="grid-item strategy">
-									<div class="grid-item__inner">
-										<div class="grid-item__content-wrapper">
-											<div class="post-02">
-												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/25.jpeg"><img src="/assets/img/gallery/25.jpeg" alt=""/></a></div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="grid-item strategy">
-									<div class="grid-item__inner">
-										<div class="grid-item__content-wrapper">
-											<div class="post-02">
 												<div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/26.jpeg"><img src="/assets/img/gallery/26.jpeg" alt=""/></a></div>
 											</div>
 										</div>

@@ -1,8 +1,12 @@
 <script type="text/javascript">
   $(document).ready(function() {
     $('.jsa__send_mail').on('click', function(e){
-      $(this).addClass("disabled");
       e.preventDefault();
+      if ($('input[name="name"]').val() == '' || $('input[name="phone"]').val() == '' || $('input[name="email"]').val() == '' || $('textarea').val() == ''){
+        alert('<?=  $l['Fill_in_the_Name_phone_number_email'] ?>');
+        return;
+      }
+      $(this).addClass("disabled");
       $.ajax({
         type: 'post',
         url: "/action/mail.php",
