@@ -1,8 +1,8 @@
 <?php
 
-ini_set('error_reporting', E_ALL);
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
+//ini_set('error_reporting', E_ALL);
+//ini_set('display_errors', 1);
+//ini_set('display_startup_errors', 1);
 
 require_once('vendor/AltoRouter.php');
 
@@ -43,6 +43,22 @@ $router->map( 'GET', '/ru/photo', function() {
     main('photo');
 });
 $router->map( 'GET', '/ru/contact', function() {
+    main('contact');
+});
+
+$router->map( 'GET', '/de', function() {
+    main('index');
+});
+$router->map( 'GET', '/de/', function() {
+    main('index');
+});
+$router->map( 'GET', '/de/about', function() {
+    main('about');
+});
+$router->map( 'GET', '/de/photo', function() {
+    main('photo');
+});
+$router->map( 'GET', '/de/contact', function() {
     main('contact');
 });
 

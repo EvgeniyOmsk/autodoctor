@@ -463,15 +463,6 @@
                   <div class="grid-item__inner">
                     <div class="grid-item__content-wrapper">
                       <div class="post-02">
-                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/61.jpeg"><img src="/assets/img/gallery/61.jpeg" alt=""/></a></div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="grid-item strategy">
-                  <div class="grid-item__inner">
-                    <div class="grid-item__content-wrapper">
-                      <div class="post-02">
                         <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/62.jpeg"><img src="/assets/img/gallery/62.jpeg" alt=""/></a></div>
                       </div>
                     </div>
@@ -481,7 +472,133 @@
                   <div class="grid-item__inner">
                     <div class="grid-item__content-wrapper">
                       <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/74.jpeg"><img src="/assets/img/gallery/74.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/75.jpeg"><img src="/assets/img/gallery/75.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/76.jpeg"><img src="/assets/img/gallery/76.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/61.jpeg"><img src="/assets/img/gallery/61.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
                         <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/63.jpeg"><img src="/assets/img/gallery/63.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/64.jpeg"><img src="/assets/img/gallery/64.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/65.jpeg"><img src="/assets/img/gallery/65.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/66.jpeg"><img src="/assets/img/gallery/66.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/67.jpeg"><img src="/assets/img/gallery/67.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/68.jpeg"><img src="/assets/img/gallery/68.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/69.jpeg"><img src="/assets/img/gallery/69.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/70.jpeg"><img src="/assets/img/gallery/70.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/71.jpeg"><img src="/assets/img/gallery/71.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/72.jpeg"><img src="/assets/img/gallery/72.jpeg" alt=""/></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid-item strategy">
+                  <div class="grid-item__inner">
+                    <div class="grid-item__content-wrapper">
+                      <div class="post-02">
+                        <div class="post-02__media"><a class="fancybox" rel="group" href="/assets/img/gallery/73.jpeg"><img src="/assets/img/gallery/73.jpeg" alt=""/></a></div>
                       </div>
                     </div>
                   </div>

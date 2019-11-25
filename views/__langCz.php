@@ -1,7 +1,7 @@
 <?php
 $lang = 'cz';
 $l = [
-    'home' => 'TITULNÍ STRANA',
+    'home' => 'TITULNÍ STRANA - SLUŽBY',
     'about' => 'O nás',
     'example_works' => 'Galerie',
     'contacts' => 'Kontakt',
