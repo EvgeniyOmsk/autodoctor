@@ -27,7 +27,6 @@
                 <section class="widget-text__widget widget">
                     <div class="widget-text__content">
                         <ul>
-                            <li><a href="<?= Url::to('/photo') ?>"><?= $l['example_works'] ?></li>
                             <li><a href="<?= Url::to('/contact') ?>"><?= $l['contacts'] ?></a></li>
                         </ul>
                     </div>

@@ -32,7 +32,6 @@
       <ul class="consult-menu">
         <li class="current-menu-item"><a href="<?= Url::to('') ?>"><?= $l['home'] ?></a></li>
         <li <?= $page == 'about'? 'class="current-menu-item"' : '' ?>><a href="<?= Url::to('/about') ?>"><?= $l['about'] ?></a></li>
-        <li <?= $page == 'photo'? 'class="current-menu-item"' : '' ?>><a href="<?= Url::to('/photo') ?>"><?= $l['example_works'] ?></a></li>
         <li <?= $page == 'contact'? 'class="current-menu-item"' : '' ?>><a href="<?= Url::to('/contact') ?>"><?= $l['contacts'] ?></a>
         </li>
       </ul><!-- consult-menu -->
