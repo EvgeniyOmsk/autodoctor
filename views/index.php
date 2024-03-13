@@ -69,6 +69,9 @@
 					<div class="container">
 						<div class="textbox-group">
 							<div class="row">
+                                <div class="col-md-2 col-lg-2 ">
+
+                                </div>
 								<div class="col-md-4 col-lg-4 ">
 
 									<div class="textbox">
@@ -87,17 +90,6 @@
 										<div class="textbox__body">
 											<h2 class="textbox__title"><span><?= $l['Body_repair'] ?></span></h2>
 											<div class="textbox__description"><?= $l['Qualified_specialists_as_soon_as_possible_will_completely'] ?></div>
-										</div>
-									</div>
-									
-								</div>
-								<div class="col-md-4 col-lg-4 ">
-
-									<div class="textbox">
-										<div class="textbox__image"><img src="/assets/img/services/6.jpg" alt=""/></div>
-										<div class="textbox__body">
-											<h2 class="textbox__title"><span><?= $l['Body_polishing'] ?></span></h2>
-											<div class="textbox__description"><?= $l['Professional_scratching_and_protective_coating'] ?></div>
 										</div>
 									</div>
 									
