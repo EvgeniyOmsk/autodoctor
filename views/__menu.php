@@ -1,7 +1,7 @@
 <!-- header -->
 <header class="header header__style-02">
   <div class="container">
-    <div class="header__logo"><a href="<?= Url::to('') ?>"><img src="/assets/img/logo.png" alt=""/></a></div>
+    <div class="header__logo"><a href="<?= Url::to('') ?>"><img src="/assets/img/logo1.png" alt=""/></a></div>
     <div class="header__toogleGroup">
       <div class="header__chooseLanguage">
 

@@ -149,7 +149,7 @@
 									<div><?= $l['By_phone_whatsapp_viber_or_send'] ?></div>
 								</div><!-- End / title-01 -->
 								
-								<div class="consult-phone"><span itemprop="telephone">(+420) 774 864 202</span></div>
+								<div class="consult-phone"><span itemprop="telephone">(+420) 777 119 202</span></div>
 							</div>
 						</div>
 
