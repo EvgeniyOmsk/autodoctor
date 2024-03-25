@@ -4320,7 +4320,7 @@ mark, .mark {
     }
 }
 
-@media (min-width: 576) {
+@media (min-width: 576px) {
     .page-title {
         padding-top: calc(8.01282vw + 53.84615px);
         padding-bottom: calc(8.01282vw + 53.84615px);
@@ -4402,7 +4402,7 @@ mark, .mark {
 
 @media (min-width: 992px) {
     .slider__content h2 {
-        font-size: 68px;
+        font-size: 40px;
     }
 }
 
@@ -4679,4 +4679,8 @@ mark, .mark {
     right: 0;
     bottom: 50px;
     position: absolute;
+}
+.table_prices {
+    width: 100%;
+    tr:nth-child(odd) { background: #d7d7d7; }
 }

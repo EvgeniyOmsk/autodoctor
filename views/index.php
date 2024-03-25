@@ -33,26 +33,33 @@
 				<div class="slider">
 					
 					<!-- carousel__element owl-carousel -->
-					<div class="carousel__element owl-carousel" data-options='{"items":1,"loop":true,"dots":false,"nav":false,"margin":0, "autoplay": true, "autoplayTimeout": 5000}'>
-						<div class="slider__item" style="background-image: url('/assets/img/slider2.jpg');">
+					<div class="carousel__element owl-carousel" data-options='{"items":1,"loop":true,"dots":false,"nav":false,"margin":0, "autoplay": false, "autoplayTimeout": 5000}'>
+
+                        <div class="slider__item" style="background-image: url('/assets/img/slider1.jpg');">
+                            <div class="md-tb">
+                                <div class="md-tb__cell">
+                                    <div class="slider__content">
+                                        <div class="container">
+                                            <h1>Djuna s.r.o</h1> <br>
+                                            <h2><?= $l['body_repair_in_Karlovy_Vary'] ?></h2>
+                                            <p><?= $l['Our_Autodocs_will_answer_your_questions_and_carry'] ?></p>
+                                            <h2><?= $l['car_painting_in_Karlovy_Vary'] ?></h2>
+                                            <p><?= $l['the_specialists_of_the_Avtodoktor_company_will_professionally'] ?></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider__item" style="background-image: url('/assets/img/slider2.jpg');">
 							<div class="md-tb">
 								<div class="md-tb__cell">
 									<div class="slider__content">
 										<div class="container">
-											<h2><?= $l['car_painting_in_Karlovy_Vary'] ?></h2>
-											<p><?= $l['the_specialists_of_the_Avtodoktor_company_will_professionally'] ?></p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="slider__item" style="background-image: url('/assets/img/slider1.jpg');">
-							<div class="md-tb">
-								<div class="md-tb__cell">
-									<div class="slider__content">
-										<div class="container">
-											<h2><?= $l['body_repair_in_Karlovy_Vary'] ?></h2>
-											<p><?= $l['Our_Autodocs_will_answer_your_questions_and_carry'] ?></p>
+                                            <h1>Djuna s.r.o</h1> <br>
+                                            <h2><?= $l['body_repair_in_Karlovy_Vary'] ?></h2>
+                                            <p><?= $l['Our_Autodocs_will_answer_your_questions_and_carry'] ?></p>
+                                            <h2><?= $l['car_painting_in_Karlovy_Vary'] ?></h2>
+                                            <p><?= $l['the_specialists_of_the_Avtodoktor_company_will_professionally'] ?></p>
 										</div>
 									</div>
 								</div>
@@ -105,60 +112,75 @@
 				<!-- About-->
 				
 				<!-- Section -->
-				<section class="md-section">
-					<div class="container">
-						<div class="row">
-							<div class="col-lg-6 ">
-								
-								<!-- title-01 -->
-								<div class="title-01 title-01__style-03 md-text-left">
-                  <br><br><br>
-									<h2 class="title-01__title"><?= $l['Our_priority_is_speed_quality_and_customer'] ?></h2>
-								</div><!-- End / title-01 -->
+                <section class="md-section js-consult-form" style="background-color:#f7f7f7;">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6 offset-0 offset-sm-0 offset-md-0 offset-lg-3 ">
 
-							</div>
-							<div class="col-lg-6 ">
-								<div class="js-consult-slider">
-									
-									<!-- carousel__element owl-carousel -->
-									<div class="carousel__element owl-carousel" data-options='{"items":1,"loop":true,"dots":false,"nav":false,"margin":30,"responsive":{"0":{"items":2},"576":{"items":3},"992":{"items":1}}}'>
-										<div class="image-full"><img src="/assets/img/image-01.jpg" alt=""></div>
-										<div class="image-full"><img src="/assets/img/image-02.jpg" alt=""></div>
-										<div class="image-full"><img src="/assets/img/image-03.jpg" alt=""></div>
-									</div><!-- End / carousel__element owl-carousel -->
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
+                                <!-- title-01 -->
+                                <div class="title-01">
+                                    <h2 class="title-01__title"><?= $l['How_to_contact'] ?></h2>
+                                    <div><?= $l['High_quality_painting_and_car'] ?></div>
+                                </div><!-- End / title-01 -->
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 ">
+
+                                <!-- iconbox -->
+                                <div class="iconbox iconbox__style-04">
+                                    <div class="iconbox__icon"><i class="ti-email"></i></div>
+                                    <div>
+                                        <h2 class="iconbox__title"><a href="#">Email</a></h2>
+                                        <div class="iconbox__description"><a href="mailto:jurij.vanek@gmail.com">jurij.vanek@gmail.com</a></div>
+                                    </div>
+                                </div><!-- End / iconbox -->
+
+                            </div>
+                            <div class="col-lg-4 ">
+
+                                <!-- iconbox -->
+                                <div class="iconbox iconbox__style-04">
+                                    <div class="iconbox__icon"><i class="ti-location-pin"></i></div>
+                                    <div>
+                                        <h2 class="iconbox__title"><a href="#"><?= $l['Address'] ?></a></h2>
+                                        <div class="iconbox__description">
+                                            <span itemprop="addressLocality"><?= $l['Czech'] ?></span>,
+                                            <span itemprop="streetAddress"><?= $l['Palenarne'] ?></span>
+                                            <br><?= $l['Karlovy_Vary'] ?>
+                                            <br><?= $l['IC26375087'] ?>
+                                            <br>DIČ : CZ 263 750 87
+                                        </div>
+                                    </div>
+                                </div><!-- End / iconbox -->
+
+                            </div>
+                            <div class="col-lg-4 ">
+
+                                <!-- iconbox -->
+                                <div class="iconbox iconbox__style-04">
+                                    <div class="iconbox__icon"><i class="ti-mobile"></i></div>
+                                    <div>
+                                        <h2 class="iconbox__title"><a href="#"><?= $l['Phone'] ?></a></h2>
+                                        <div class="iconbox__description">
+                                            <span itemprop="telephone">+420774864202</span>
+                                            <br>WhatsApp
+                                            <br>Viber
+                                        </div>
+                                    </div>
+                                </div><!-- End / iconbox -->
+
+                            </div>
+                        </div>
+
+                        <?php include_once('__form_question.php')?>
+
+                    </div>
+                </section>
 				<!-- End / Section -->
 				
 				<!-- Contact us-->
-				
-				<!-- Section -->
-				<section class="md-section md-skin-dark js-consult-form" style="background-image:url(&quot;/assets/img/backgrounds/1.jpg&quot;);">
-					<div class="md-overlay"></div>
-					<div class="container">
-						<div class="row">
-							<div class="col-lg-8 offset-0 offset-sm-0 offset-md-0 offset-lg-2 ">
-								
-								<!-- title-01 -->
-								<div class="title-01 title-01__style-02">
-									<h2 class="title-01__title"><?= $l['Contact_us'] ?></h2>
-									<div><?= $l['By_phone_whatsapp_viber_or_send'] ?></div>
-								</div><!-- End / title-01 -->
-								
-								<div class="consult-phone"><span itemprop="telephone">(+420) 777 119 202</span></div>
-							</div>
-						</div>
-
-              <?php include_once('__form_question.php')?>
-						
-					</div>
-				</section>
-				<!-- End / Section -->
-				
 
 			</div>
 			<!-- End / Content-->

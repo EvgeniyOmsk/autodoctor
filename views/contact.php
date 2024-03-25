@@ -66,9 +66,8 @@
 											<span itemprop="addressLocality"><?= $l['Czech'] ?></span>,
 											<span itemprop="streetAddress"><?= $l['Palenarne'] ?></span>
                       <br><?= $l['Karlovy_Vary'] ?>
-											<br><?= $l['pn-pt'] ?>
-                      <br><?= $l['sb-vs'] ?>
                       <br><?= $l['IC26375087'] ?>
+                      <br>DIČ : CZ 263 750 87
                     </div>
 									</div>
 								</div><!-- End / iconbox -->
