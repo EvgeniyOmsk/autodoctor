@@ -149,8 +149,8 @@
                                             <span itemprop="addressLocality"><?= $l['Czech'] ?></span>,
                                             <span itemprop="streetAddress"><?= $l['Palenarne'] ?></span>
                                             <br><?= $l['Karlovy_Vary'] ?>
-                                            <br><?= $l['IC26375087'] ?>
-                                            <br>DIČ : CZ 263 750 87
+                                            <br>I.Č: 263 750 87
+                                            <br>DIČ: 263 750 87
                                         </div>
                                     </div>
                                 </div><!-- End / iconbox -->
@@ -167,6 +167,9 @@
                                             <span itemprop="telephone">+420774864202</span>
                                             <br>WhatsApp
                                             <br>Viber
+                                            <hr>
+                                            Telegram <a href="https://t.me/europe_transfer">https://t.me/europe_transfer</a>
+                                            <br>RU +79114771222
                                         </div>
                                     </div>
                                 </div><!-- End / iconbox -->
