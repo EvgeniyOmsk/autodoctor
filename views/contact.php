@@ -81,12 +81,14 @@
 									<div>
 										<h2 class="iconbox__title"><a href="#"><?= $l['Phone'] ?></a></h2>
 										<div class="iconbox__description">
-                      <span itemprop="telephone">+420774864202</span>
-                      <br>WhatsApp
-                      <br>Viber
-                                            <hr>
-                                            Telegram <a href="https://t.me/europe_transfer">https://t.me/europe_transfer</a>
-                                            <br>RU +79114771222
+                      <span itemprop="telephone">CZ: +420777119222</span>
+                      <br>
+                      <span itemprop="telephone">RU: +79114771222</span>
+                      <br>
+                        <a href="https://wa.me/420777119222"><?= $l['Write_to'] ?> WhatsApp CZ</a><br>
+                        <a href="https://wa.me/79114771222"><?= $l['Write_to'] ?> WhatsApp RU</a><br>
+                        <a href="https://t.me/+420777119222 "><?= $l['Write_to'] ?> Telegram</a><br>
+                        <a href="https://t.me/europe_transfer">Telegram <?= $l['Channel'] ?></a><br>
                     </div>
 									</div>
 								</div><!-- End / iconbox -->

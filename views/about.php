@@ -46,88 +46,83 @@
                                         <table class="table_prices">
                                             <tr>
                                                 <td>Дрезден</td>
-                                                <td>4320 Kč</td>
-                                                <td>160 €</td>
+                                                <td>4250 Kč</td>
+                                                <td>170 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Мюнхен</td>
-                                                <td>9450 Kč</td>
+                                                <td>8750 Kč</td>
                                                 <td>350 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Нюрнберг</td>
-                                                <td>6750 Kč</td>
+                                                <td>6250 Kč</td>
                                                 <td>250 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Берлин</td>
-                                                <td>7560 Kč</td>
+                                                <td>7000 Kč</td>
                                                 <td>280 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Франкфурт</td>
-                                                <td>11340 Kč</td>
+                                                <td>10500 Kč</td>
                                                 <td>420 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Вена</td>
-                                                <td>7560 Kč</td>
+                                                <td>7000 Kč</td>
                                                 <td>280 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Амстердам</td>
-                                                <td>18900 Kč</td>
+                                                <td>17500 Kč</td>
                                                 <td>700 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Братислава</td>
-                                                <td>7560 Kč</td>
+                                                <td>7000 Kč</td>
                                                 <td>280 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Будапешт</td>
-                                                <td>13500 Kč</td>
+                                                <td>12500 Kč</td>
                                                 <td>500 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Париж</td>
-                                                <td>24300 Kč</td>
+                                                <td>22500 Kč</td>
                                                 <td>900 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Венеция</td>
-                                                <td>24300 Kč</td>
+                                                <td>22500 Kč</td>
                                                 <td>900 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Марианские ланзе</td>
-                                                <td>3780 Kč</td>
+                                                <td>3500 Kč</td>
                                                 <td>140 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Франтишковы Ланзе</td>
-                                                <td>3510 Kč</td>
+                                                <td>3250 Kč</td>
                                                 <td>130 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Плзень</td>
-                                                <td>2160 Kč</td>
-                                                <td>80 €</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Махово озеро</td>
-                                                <td>2430 Kč</td>
+                                                <td>2250 Kč</td>
                                                 <td>90 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Прага центр</td>
-                                                <td>2430 Kč</td>
-                                                <td>90 €</td>
+                                                <td>3500 Kč</td>
+                                                <td>140 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Прага аэропорт</td>
-                                                <td>2430 Kč</td>
-                                                <td>90 €</td>
+                                                <td>3000 Kč</td>
+                                                <td>120 €</td>
                                             </tr>
 
                                         </table>
