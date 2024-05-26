@@ -95,8 +95,9 @@
 									<div class="textbox">
 										<div class="textbox__image"><img src="/assets/img/services/5.jpg" alt=""/></div>
 										<div class="textbox__body">
-											<h2 class="textbox__title"><span><?= $l['Body_repair'] ?></span></h2>
-											<div class="textbox__description"><?= $l['Qualified_specialists_as_soon_as_possible_will_completely'] ?></div>
+											<h2 class="textbox__title"><span><?= $l['Parcels_delivery'] ?></span></h2>
+											<div class="textbox__description"><?= $l['Sending_letters_documents_parcels'] ?>
+                                                <a href="https://eurubox.ru" target="_blank">Eurubox.ru</a></div>
 										</div>
 									</div>
 									

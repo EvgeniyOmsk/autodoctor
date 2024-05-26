@@ -51,8 +51,8 @@
                                             </tr>
                                             <tr>
                                                 <td>Мюнхен</td>
-                                                <td>8750 Kč</td>
-                                                <td>350 €</td>
+                                                <td>7000 Kč</td>
+                                                <td>280 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Нюрнберг</td>
@@ -61,8 +61,8 @@
                                             </tr>
                                             <tr>
                                                 <td>Берлин</td>
-                                                <td>7000 Kč</td>
-                                                <td>280 €</td>
+                                                <td>8750 Kč</td>
+                                                <td>350 €</td>
                                             </tr>
                                             <tr>
                                                 <td>Франкфурт</td>
@@ -127,6 +127,8 @@
 
                                         </table>
 
+                                        <br>
+                                        <p><b><?= $l['Transportation_individually'] ?></b></p>
 									</div>
 								</div><!-- End / title-01 -->
 								
