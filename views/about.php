@@ -45,82 +45,82 @@
 
                                         <table class="table_prices">
                                             <tr>
-                                                <td>Дрезден</td>
+                                                <td><?= $l['Drezden'] ?></td>
                                                 <td>4250 Kč</td>
                                                 <td>170 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Мюнхен</td>
+                                                <td><?= $l['Munhen'] ?></td>
                                                 <td>7000 Kč</td>
                                                 <td>280 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Нюрнберг</td>
+                                                <td><?= $l['Nurnberg'] ?></td>
                                                 <td>6250 Kč</td>
                                                 <td>250 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Берлин</td>
+                                                <td><?= $l['Berlin'] ?></td>
                                                 <td>8750 Kč</td>
                                                 <td>350 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Франкфурт</td>
+                                                <td><?= $l['Frankfurt'] ?></td>
                                                 <td>10500 Kč</td>
                                                 <td>420 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Вена</td>
+                                                <td><?= $l['Vena'] ?></td>
                                                 <td>7000 Kč</td>
                                                 <td>280 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Амстердам</td>
+                                                <td><?= $l['Amsterdam'] ?></td>
                                                 <td>17500 Kč</td>
                                                 <td>700 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Братислава</td>
+                                                <td><?= $l['Bratislava'] ?></td>
                                                 <td>7000 Kč</td>
                                                 <td>280 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Будапешт</td>
+                                                <td><?= $l['Budapesht'] ?></td>
                                                 <td>12500 Kč</td>
                                                 <td>500 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Париж</td>
+                                                <td><?= $l['Paris'] ?></td>
                                                 <td>22500 Kč</td>
                                                 <td>900 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Венеция</td>
+                                                <td><?= $l['Venetia'] ?></td>
                                                 <td>22500 Kč</td>
                                                 <td>900 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Марианские ланзе</td>
+                                                <td><?= $l['Marianskie_laze'] ?></td>
                                                 <td>3500 Kč</td>
                                                 <td>140 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Франтишковы Ланзе</td>
+                                                <td><?= $l['Frantishkovi_laze'] ?></td>
                                                 <td>3250 Kč</td>
                                                 <td>130 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Плзень</td>
+                                                <td><?= $l['Plzen'] ?></td>
                                                 <td>2250 Kč</td>
                                                 <td>90 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Прага центр</td>
+                                                <td><?= $l['Praha_center'] ?></td>
                                                 <td>3500 Kč</td>
                                                 <td>140 €</td>
                                             </tr>
                                             <tr>
-                                                <td>Прага аэропорт</td>
+                                                <td><?= $l['Praha_airport'] ?></td>
                                                 <td>3000 Kč</td>
                                                 <td>120 €</td>
                                             </tr>
